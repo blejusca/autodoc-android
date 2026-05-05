@@ -1,0 +1,13 @@
+# Copiaza acest fisier ca local.properties pe PC-ul tau si completeaza valorile reale.
+# NU urca local.properties pe GitHub si NU il trimite public.
+
+# Android Studio de obicei completeaza automat sdk.dir.
+# Exemplu Windows:
+# sdk.dir=C:\\Users\\NumeleTau\\AppData\\Local\\Android\\Sdk
+
+# Semnare release pentru Google Play / AAB.
+# Creeaza keystore-ul tau personal si completeaza mai jos:
+KEYSTORE_PATH=../autodoc-release.jks
+KEYSTORE_PASSWORD=PAROLA_TA_KEYSTORE
+KEY_ALIAS=autodoc
+KEY_PASSWORD=PAROLA_TA_KEY
